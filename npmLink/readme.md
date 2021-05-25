@@ -1,5 +1,5 @@
 # 这是一个npm link 使用样例
-
+* 用来解决发布新版公共包前进行新代码测试
 ## packet 是一个公共库
 * `cd packet`
 * `npm link` 这会使packet整个包链接到全局的node安装环境里面
